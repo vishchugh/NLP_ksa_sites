@@ -1,0 +1,15 @@
+pandas
+numpy
+ast
+json
+seaborn
+matplotlib
+transformers
+scipy
+deep-translator
+vaderSentiment
+nltk
+syllables
+textstat
+scikit-learn
+wordcloud
